@@ -56,3 +56,5 @@ dist/
 
 package-lock.json
 package.json
+package-lock copy.json
+package copy.json
