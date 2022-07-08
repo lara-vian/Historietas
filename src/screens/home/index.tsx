@@ -3,7 +3,6 @@ import BarraCoins from "../../components/bar";
 import Layout from "../../layout"
 import { ListaBotoes } from "./style"
 import Opcao from "../../components/opcoes"
-
 interface botao{
   id: string;
   imagemBotao: object;
